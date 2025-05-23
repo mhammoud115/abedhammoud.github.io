@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Abed Hammoud</title>
+    <link>http://localhost:1313/news/</link>
+      <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://localhost:1313/news/</link>
+    </image>
+    
+    <item>
+      <title>Presented at the Princeton Fluids Seminar!</title>
+      <link>http://localhost:1313/news/princetonfluids/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/princetonfluids/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>I was awarded with the KAUST PSE dean&#39;s award! (First to achieve the highest number of awards possible within a PhD)</title>
+      <link>http://localhost:1313/news/psedeans3/</link>
+      <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/psedeans3/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Invited to give a talk at AUB CAMS!</title>
+      <link>http://localhost:1313/news/aub_cams/</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/aub_cams/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Invited to give a talk at the Stochastic Numerics and Stochastic Learning Conference!</title>
+      <link>http://localhost:1313/news/snsl/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/snsl/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>I was awarded with the KAUST PSE dean&#39;s award for 2024!</title>
+      <link>http://localhost:1313/news/psedeans2/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/psedeans2/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Invited to give a talk at ISDA online!</title>
+      <link>http://localhost:1313/news/isdaonline/</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/isdaonline/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Attended SIAM UQ &#39;24 in Trieste!</title>
+      <link>http://localhost:1313/news/siamuq/</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/siamuq/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Visited Prof. Dionysios Raitsos at Univ. of Athens!</title>
+      <link>http://localhost:1313/news/uathens/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/uathens/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Accepted to the Les Houches Summer School for 200 Years of Navier Stokes and Turbulences!</title>
+      <link>http://localhost:1313/news/leshouches/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/leshouches/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gave a Talk at the Ocean Colloquium!</title>
+      <link>http://localhost:1313/news/oceancolloquium/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/oceancolloquium/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>I was awarded with the inaugural KAUST PSE dean&#39;s award!</title>
+      <link>http://localhost:1313/news/psedeans/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/psedeans/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gave a Talk at ISDA 2022!</title>
+      <link>http://localhost:1313/news/isda2022/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/isda2022/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Participated in the TU Delft DCSE Fall School on ROMs and UQ!</title>
+      <link>http://localhost:1313/news/tudelft/</link>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/tudelft/</guid>
+      <description>&lt;!-- Your news content here... --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
